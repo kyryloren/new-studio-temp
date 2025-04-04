@@ -1,0 +1,5 @@
+export { default as Hero } from './hero'
+export { default as Video } from './video'
+export { default as About } from './about'
+export { default as Projects } from './projects'
+export { default as InsightsSection } from './insights'
